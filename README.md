@@ -106,4 +106,4 @@ king_county_housing_price_predictor/
 ## Author
 
 **Moaaz Ahmed**
-- GitHub: [@Moaaz Ahmed](https://github.com/MomoSalter)
+- GitHub: [@Moaaz Ahmed](https://github.com/MoaazSalter)
