@@ -82,7 +82,7 @@ Optimizer: Adam | Loss: MSE | Callbacks: EarlyStopping(patience=40)
 ## Run Locally
 
 ```bash
-git clone https://github.com/MomoSalter/king_county_housing_price_predictor
+git clone https://github.com/MoaazSalter/king_county_housing_price_predictor
 cd king_county_housing_price_predictor
 jupyter notebook housing_price_prediction.ipynb
 ```
